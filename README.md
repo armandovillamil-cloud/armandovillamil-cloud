@@ -99,12 +99,10 @@ Applied AI assistant focused on data-driven interaction, analytics support, and 
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandovillamil-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandovillamil-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=armandovillamil-cloud&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
