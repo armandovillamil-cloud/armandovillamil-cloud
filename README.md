@@ -1,65 +1,137 @@
-# 👋 Hi, I'm Armando Villamil
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+</p>
 
-Data Analyst | Data Science | Machine Learning  
+<h1 align="center">Hi 👋, I'm Armando Villamil</h1>
 
-Engineer with a background in Automation & Control, currently transitioning into Data Science. I focus on building practical, real-world solutions using data.
+<h3 align="center">
+Engineer | Data Analyst | Machine Learning Enthusiast
+</h3>
 
----
-
-## About Me
-I am a self-driven professional with over a decade of experience in engineering, now focused on leveraging data to solve complex business and industrial problems.
-
-My background in automation and control systems has given me strong analytical thinking, problem-solving skills, and a deep understanding of real-world processes. I am currently applying these skills in the field of Data Science, building projects that combine data analysis, machine learning, and business insight.
-
-I am particularly interested in:
-- Turning raw data into actionable insights  
-- Applying machine learning to real-world scenarios  
-- Bridging the gap between engineering and data-driven decision making  t.
+<p align="center">
+Building real-world data solutions through analytics, automation, and AI.
+</p>
 
 ---
 
-## What I Bring
+<p align="center">
 
-- Strong analytical and engineering mindset  
-- Experience working with real-world systems and data  
-- Ability to learn and apply new technologies quickly  
-- Focus on building practical, impactful solutions  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analysis;Machine+Learning;Industrial+Analytics;Fintech+Analytics;AI+Solutions;Engineering+%2B+Data)](https://git.io/typing-svg)
 
----
-
-## Areas of Interest
-- Data Analysis & Business Insights  
-- Machine Learning  
-- Process Optimization with Data  
-- Applied AI Solutions  
+</p>
 
 ---
 
-## Tech Stack
-- Python (Pandas, NumPy, Scikit-learn)  
-- SQL  
-- Power BI / Tableau
-- Git & GitHub  
+## 🚀 About Me
+
+I am an engineer with a background in Automation & Control Systems, currently transitioning into Data Science and Machine Learning.
+
+My experience working with industrial systems, process automation, and real-world engineering environments has helped me develop a strong analytical mindset focused on problem-solving and building practical solutions.
+
+I enjoy exploring technologies, experimenting with data-driven approaches, and developing projects that combine business insight, engineering thinking, and AI.
 
 ---
 
-## Portfolio Projects
-🚧 Currently building my data portfolio with real-world projects:
-- Sales Data Analysis (Business Insights + Visualization) 
-- Customer Churn Prediction (Machine Learning)  
-- Industrial Data Analysis (Engineering-focused analytics)
-- Fintech Risk Analysis (SQL + Financial Data) 
-- Chatbot AI (Applied AI – upcoming project)  
+## 🧠 Areas of Interest
+
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning  
+- 🏭 Industrial Analytics  
+- 💳 Fintech & Risk Analytics  
+- ⚙️ Process Optimization  
+- 🧠 Applied AI Solutions  
 
 ---
 
-## Career Goals
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Sales Data Analysis
+Business-focused sales analysis project using Python, SQL, and data visualization tools to uncover trends, customer behavior, and revenue opportunities.
+
+---
+
+## 🤖 Financial Fraud Detection with Machine Learning
+Machine learning project focused on detecting fraudulent financial transactions using predictive analytics, feature engineering, and classification models.
+
+### 🔹 Project Highlights
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Imbalanced data handling  
+- Machine Learning model comparison  
+- Fraud prediction and evaluation metrics  
+
+### 🛠️ Technologies
+Python | Pandas | Scikit-learn | XGBoost | Data Visualization
+
+---
+
+## 🏭 Industrial Data Analysis
+Engineering-focused analytics project using industrial and process-related data to identify patterns, anomalies, and operational insights.
+
+---
+
+## 💳 Fintech Risk Analysis
+Financial and transactional data analysis project using SQL and machine learning techniques for business intelligence and risk analysis.
+
+---
+
+## 🤖 AI Chatbot *(Upcoming Project)*
+Applied AI assistant focused on data-driven interaction, analytics support, and intelligent automation.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandovillamil-cloud&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandovillamil-cloud&layout=compact&theme=tokyonight&hide_border=true)
+
+</p>
+
+---
+
+## 🎯 Career Goals
+
 - Transition into a Data Analyst / Data Scientist role  
-- Build impactful, production-ready data projects  
-- Work on data-driven solutions in industry or fintech  
-- Continue growing in AI, Machine Learning, and data engineering   
+- Build impactful and production-oriented data projects  
+- Continue growing in AI, Machine Learning, and Data Engineering  
+- Apply engineering thinking to solve real-world business and industrial problems  
 
 ---
 
-## Contact
-- LinkedIn: www.linkedin.com/in/armando-v-b8a47229
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Turning raw data into actionable insights ⚡
+</p>
