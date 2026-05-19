@@ -64,12 +64,26 @@ I enjoy exploring technologies, experimenting with data-driven approaches, and d
 
 # 📂 Featured Projects
 
+---
+
 ## 📊 Sales Data Analysis
-Business-focused sales analysis project using Python, SQL, and data visualization tools to uncover trends, customer behavior, and revenue opportunities.
+
+Business-focused sales analysis project designed to uncover revenue trends, customer behavior, and sales performance insights through data exploration and visualization.
+
+### 🔹 Project Highlights
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Sales trend analysis  
+- Customer and product performance analysis  
+- Business insights and visualization dashboards  
+
+### 🛠️ Technologies
+Python | Pandas | SQL | Power BI / Tableau
 
 ---
 
 ## 🤖 Financial Fraud Detection with Machine Learning
+
 Machine learning project focused on detecting fraudulent financial transactions using predictive analytics, feature engineering, and classification models.
 
 ### 🔹 Project Highlights
@@ -85,25 +99,49 @@ Python | Pandas | Scikit-learn | XGBoost | Data Visualization
 ---
 
 ## 🏭 Industrial Data Analysis
-Engineering-focused analytics project using industrial and process-related data to identify patterns, anomalies, and operational insights.
+
+Engineering-focused analytics project using industrial and process-related data to identify operational patterns, anomalies, and optimization opportunities.
+
+### 🔹 Project Highlights
+- Industrial data exploration  
+- Sensor and process trend analysis  
+- Operational performance visualization  
+- Anomaly detection concepts  
+- Engineering-oriented insights  
+
+### 🛠️ Technologies
+Python | Pandas | Data Visualization | SQL
 
 ---
 
 ## 💳 Fintech Risk Analysis
-Financial and transactional data analysis project using SQL and machine learning techniques for business intelligence and risk analysis.
+
+Financial and transactional data analysis project focused on identifying risk patterns, customer behavior, and business intelligence opportunities in fintech environments.
+
+### 🔹 Project Highlights
+- Transactional data analysis  
+- Risk pattern identification  
+- SQL-based analytics  
+- KPI and dashboard creation  
+- Financial trend visualization  
+
+### 🛠️ Technologies
+SQL | Python | Power BI / Tableau
 
 ---
 
 ## 🤖 AI Chatbot *(Upcoming Project)*
-Applied AI assistant focused on data-driven interaction, analytics support, and intelligent automation.
 
----
+Applied AI assistant focused on data-driven interaction, intelligent automation, and analytics support for real-world scenarios.
 
-## 🔥 GitHub Activity
+### 🔹 Planned Features
+- Natural language interaction  
+- Data-driven responses  
+- Analytics assistant capabilities  
+- AI workflow integration  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=armandovillamil-cloud&theme=tokyonight&hide_border=true" />
-</p>
+### 🛠️ Technologies
+Python | NLP | AI APIs | Data Processing
 
 ---
 
