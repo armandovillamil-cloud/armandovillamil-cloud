@@ -124,7 +124,7 @@ Applied AI assistant focused on data-driven interaction, analytics support, and 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/armando-v-b8a47229/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
